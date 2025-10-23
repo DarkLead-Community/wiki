@@ -1,4 +1,4 @@
-<img src='docs/images/ctf101_dark.png'>
+<img src='docs/images/DarkLead!.png'>
 
 # 
 
@@ -14,7 +14,6 @@ The original CTF101 was maintained by the [OSIRIS Lab](https://osiris.cyber.nyu.
 
 ## What's New / Our Vision
 
-* **Refreshed Aesthetics:** We're implementing `[YOUR CUSTOM THEME DETAILS, e.g., "a sleek dark mode-first design with improved navigation."]`
 * **Expanded Content:** We aim to add more in-depth explanations, practical examples, and potentially new categories of CTF challenges.
 * **Community Focus:** This fork is driven by community contributions, encouraging new ideas and diverse perspectives.
 * **Up-to-Date Resources:** Keeping pace with the evolving cybersecurity landscape, we'll strive to include the latest tools and techniques.
