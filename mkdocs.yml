@@ -1,13 +1,13 @@
-site_name: CTF Handbook
-site_description: Capture the Flag Competition Wiki
-site_author: OSIRIS Lab & CTFd LLC
+site_name: DL! -E.C.H.O.
+site_description: A site documenting common ways to start playing Capture the Flag Competitions
+site_author: DarkLead!, OSIRIS Lab & CTFd LLC
 plugins:
   - search
   - exclude-search:
       exclude:
         - challenges/*
   - git-revision-date-localized:
-      enable_creation_date: true
+      enable_creation_date: false
   #       type: timeago
   #       locale: en
   #       fallback_to_build_date: false
@@ -19,8 +19,8 @@ plugins:
   - glightbox
 theme:
   name: material
-  favicon: images/favicon/favicon.ico
-  logo: images/ctf101.png
+  favicon: images/DL!.svg
+  logo: images/DarkLead!.png
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation
   features:
     - navigation.tabs
@@ -57,7 +57,7 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   font:
-    code: Roboto Mono
+    code: Space Mono
 
 extra_css:
   - stylesheets/extra.css
@@ -66,13 +66,13 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/osirislab
+      link: https://github.com/DarkLead-Community
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/Vk6RXcw5wx
-copyright: Made with 💖 by <a href="https://osiris.cyber.nyu.edu">OSIRIS Lab</a> & <a href="https://ctfd.io">CTFd</a>
+      link: https://discord.gg/
+copyright: Made with 💖 by <a href="https://darklead.org">DarkLead!</a>, <a href="https://osiris.cyber.nyu.edu">OSIRIS Lab</a> & <a href="https://ctfd.io">CTFd</a>
 
-repo_url: https://github.com/osirislab/ctf101
-repo_name: osiris/ctf101
+repo_url: https://github.com/DarkLead-Community/wiki
+repo_name: DarkLead-Community/wiki
 markdown_extensions:
   - admonition
   - pymdownx.details

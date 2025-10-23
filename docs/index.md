@@ -1,22 +1,23 @@
-# Capture The Flag 101 🚩
+# DL! - E.C.H.O. 
 
 ## Welcome
 
-Welcome to **CTF101**, a site documenting the basics of playing Capture the Flags. This guide was written and maintained by the [OSIRIS Lab](https://osiris.cyber.nyu.edu/) at New York University in collaboration with [CTFd](https://ctfd.io/).
+Welcome to **DL!-E.C.H.O.** a guide documenting the basics of playing Capture the Flags.
 
-In this handbook you'll learn the basics™ behind the methodologies and techniques needed to succeed in Capture the Flag competitions.
+This site is a **fork** of the original [CTF101](https://github.com/osirislab/ctf101) project, which is written and maintained by the [OSIRIS Lab](https://osiris.cyber.nyu.edu/) at New York University in collaboration with [CTFd](https://ctfd.io/).
+
+We are building on that excellent foundation by adding extra information, and more resources to help you succeed in Capture the Flag competitions.
 
 Ready? [What is a CTF?](intro/what-is-a-ctf.md)  
 
 ## Contributions
 
-> Thank you to our incredible contributors. They work hard to keep this project open and available to everyone.
+> Thank you to the incredible contributors of the original CTF101 project. Their hard work keeps this knowledge open and available to everyone.
 
-This project is open sourced under the MIT Open Source License. For more information, check out the [MIT License](https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide) page.
+This project, like the original, is open sourced under the MIT Open Source License. For more information, check out the [MIT License](https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide) page.
 
 !!! info
-    If you're interested in contributing to make this site great, please check out our [Contributing](https://github.com/osirislab/ctf101#Contributing) section on Github!
-
+    If you're interested in contributing to *this version* of the site, please check out our [Contributing](https://github.com/DarkLead-Community/wiki]#Contributing) section on Github!
 <!-- 
 <div class="container">
   <div class="row">
